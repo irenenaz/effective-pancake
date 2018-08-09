@@ -1,3 +1,3 @@
 # effective-pancake
-Just another repository
+Just another repository.
 This is a better branch than the other one.
